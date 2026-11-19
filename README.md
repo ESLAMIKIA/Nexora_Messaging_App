@@ -40,15 +40,8 @@ Designed with a clean UI, gradient accents, and a focus on simplicity, NEXORA ai
 
 ## 📱 Screenshots
 
-> Add screenshots of your application here.
+\<p align="center">   \<img src="[https://github.com/user-attachments/assets/42077ce7-e0ae-490e-8fac-c1996a3ff72a](https://github.com/user-attachments/assets/42077ce7-e0ae-490e-8fac-c1996a3ff72a)" width="19%" alt="NEXORA Screenshot 1"/>   \<img src="[https://github.com/user-attachments/assets/7e5dfcf7-320c-4676-99d8-d4f08f0e0f46](https://github.com/user-attachments/assets/7e5dfcf7-320c-4676-99d8-d4f08f0e0f46)" width="19%" alt="NEXORA Screenshot 2"/>   \<img src="[https://github.com/user-attachments/assets/226456da-931b-4443-8bd8-77f5e7d63aa7](https://github.com/user-attachments/assets/226456da-931b-4443-8bd8-77f5e7d63aa7)" width="19%" alt="NEXORA Screenshot 3"/>   \<img src="[https://github.com/user-attachments/assets/839a9581-bb88-4788-a959-45a397237ff7](https://github.com/user-attachments/assets/839a9581-bb88-4788-a959-45a397237ff7)" width="19%" alt="NEXORA Screenshot 4"/>   \<img src="[https://github.com/user-attachments/assets/a2a54efb-22a3-4d54-b50c-7cbb35c8f85b](https://github.com/user-attachments/assets/a2a54efb-22a3-4d54-b50c-7cbb35c8f85b)" width="19%" alt="NEXORA Screenshot 5"/> \</p>
 
-You can upload screenshots to your repository and display them like this:
-
-```md
-![NEXORA Screenshot](screenshots/home.png)
-```
-
-Suggested screenshots:
 
 - Sign in / Registration
 - Chat list
