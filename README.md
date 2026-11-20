@@ -233,6 +233,9 @@ NEXORA is an independent Android project built to explore modern Android develop
 
 ---
 
+## 📄 License
+
+This project is currently available for personal and educational use. A formal license can be added to define redistribution and usage rights.
 
 ---
 
