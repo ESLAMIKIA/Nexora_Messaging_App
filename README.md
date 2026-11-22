@@ -2,7 +2,7 @@
 
 **NEXORA** is a modern Android messaging application built with **Kotlin, Jetpack Compose, and Firebase**. It provides a sleek, dark-themed messaging experience with real-time conversations, username-based accounts, customizable emoji avatars, message replies, and read receipts.
 
- clean UI, gradient accents, and a focus on simplicity, NEXORA aims to make communication feel modern and intuitive.
+ Designed with a clean UI, gradient accents, and a focus on simplicity, NEXORA aims to make communication feel modern and intuitive.
 
 ---
 
